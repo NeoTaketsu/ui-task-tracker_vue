@@ -1,21 +1,13 @@
-# test_project
+# ui-task-tracker
 
 > Vue project
 
+vuejs + vuetify + firebase
+
 ## Build Setup
 
-``` bash
-# install dependencies
-npm install
+Для того, чтобы запустить проект, необходимо скачать проект на ПК, через терминал перейти в эту папку и запустить скрипт: npm run dev
 
-# serve with hot reload at localhost:8080
-npm run dev
+## Demo
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+https://ui-task-tracker.firebaseapp.com
