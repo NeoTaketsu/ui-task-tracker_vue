@@ -11,3 +11,17 @@ vuejs + vuetify + firebase
 ## Demo
 
 https://ui-task-tracker.firebaseapp.com
+
+## Accounts for testing
+
+> first acc
+
+login: test@mail.ru
+
+password: test@mail.ru
+
+> second acc
+
+login: testtest@mail.ru
+
+password: testtest@mail.ru
